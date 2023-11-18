@@ -14,7 +14,7 @@ Before you begin, please make sure that you have the following:
 1. **Clone the repository to my local machine:**
 
    ```bash
-   git clone https://github.com/YourUsername/React-Notes-App.git
+   git clone https://github.com/Anfaal25/React-Notes-App.git
    ```
 
 2. **Navigate to the project directory:**
